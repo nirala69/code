@@ -1,2 +1,2 @@
 # code
-my repo
+my first repo on Github
